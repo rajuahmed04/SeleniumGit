@@ -33,6 +33,6 @@ class Animal {
 	    myAnimal.animalSound();
 	    myPig.animalSound();
 	    myDog.animalSound();
-            myCat.animalSound();
+        myCat.animalSound();
 	  }
 	}
