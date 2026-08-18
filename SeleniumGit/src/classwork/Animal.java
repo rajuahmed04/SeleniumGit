@@ -28,7 +28,7 @@ class Animal {
 	    Animal myAnimal = new Animal();
 	    Animal myPig = new Pig();
 	    Animal myDog = new Dog();
-            Animal myCat = new Cat();
+        Animal myCat = new Cat();
 	        
 	    myAnimal.animalSound();
 	    myPig.animalSound();
